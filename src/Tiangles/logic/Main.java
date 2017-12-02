@@ -1,3 +1,8 @@
+package Tiangles.logic;
+
+import Tiangles.data.Triangle;
+import Tiangles.logic.TriangleTest;
+
 public class Main {
     public static void main(String[] args) {
 

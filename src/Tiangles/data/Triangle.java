@@ -1,3 +1,5 @@
+package Tiangles.data;
+
 public class Triangle {
 
     private int side1;
